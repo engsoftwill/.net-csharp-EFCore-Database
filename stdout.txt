@@ -11,4 +11,4 @@ Results File: C:\Users\willi\codenation\csharp-8\Source.TestSubmission\results.x
 Test Run Successful.
 Total tests: 51
      Passed: 51
- Total time: 3,6333 Seconds
+ Total time: 4,4870 Seconds
